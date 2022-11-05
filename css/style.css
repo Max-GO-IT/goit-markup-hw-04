@@ -504,6 +504,11 @@ button:hover {
 }
 
 /* СЕКЦИЯ КНОПОК В ПОРТФОЛИО */
+.portfolio {
+  text-align: center;
+  text-transform: uppercase;
+  display: none;
+}
 .portfolio-button {
   padding: 6px 22px;
 
